@@ -57,8 +57,7 @@ export const projects = [
       'Trợ lý họp local-first: thu âm giọng nói → chuyển thành văn bản → AI tự tạo biên bản có cấu trúc (tóm tắt, quyết định, action items) → xem/sửa → xuất Markdown. Dữ liệu lưu ngay trong trình duyệt.',
     stack: ['Next.js', 'TypeScript', 'IndexedDB', 'Deepgram', 'Groq'],
     links: [
-      { label: 'Xem chi tiết', href: '#', primary: true },
-      { label: 'Source', href: '#' },
+      { label: 'Xem live', href: 'https://live-meeting.tuongms.xyz/', primary: true },
     ],
   },
   {
@@ -70,8 +69,7 @@ export const projects = [
       'Blog cá nhân theo cảm xúc — đăng khoảnh khắc & suy ngẫm ngắn gắn với 6 mood, người đọc "thả tim" ẩn danh. Tinh thần: nhẹ — tĩnh — tinh tế. Serverless, $0/tháng.',
     stack: ['Next.js 16', 'React 19', 'Supabase', 'Tailwind 4', 'Zod'],
     links: [
-      { label: 'Xem chi tiết', href: '#', primary: true },
-      { label: 'Source', href: '#' },
+      { label: 'Xem live', href: 'https://tuongms.xyz/', primary: true },
     ],
   },
 ]
